@@ -1,2 +1,0 @@
-Test Git Quick Start demo
-to add another line to file start.txt
